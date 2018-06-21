@@ -63,13 +63,6 @@ public class ClienteGUI {
 		mensajesChat.setEditable(false);
 		mensajesChat.setFont(new Font("Tahoma", Font.PLAIN, 15));
 		mensajesChat.setBounds(12, 13, 970, 604);
-		//imprimirImagen("https://img-9gag-fun.9cache.com/photo/ajEK67p_460s.jpg");
-		
-		/**
-		 * PRUEBA DE IMAGENES
-		 */
-		
-		
 		
 		JScrollPane barraScroll = new JScrollPane(mensajesChat);
 		barraScroll.setBounds(12, 13, 970, 604);

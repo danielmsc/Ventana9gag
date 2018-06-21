@@ -12,7 +12,7 @@ public class PostMock extends PostGetter {
 	@Override
 	protected void getListaPosts() {
 		//posteos.add(new Post("Arguments over. House has settled it", "https://img-9gag-fun.9cache.com/photo/a0KO8QL_460s.jpg"));
-		posteos.add(new Post("Arguments over. House has settled it", "a0KO8QL_460s.jpg"));
+		posteos.add(new Post("Arguments over. House has settled it", "img/a0KO8QL_460s.jpg"));
 	}
 	
 	@Override

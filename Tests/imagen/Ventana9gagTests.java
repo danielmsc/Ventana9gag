@@ -15,7 +15,7 @@ public class Ventana9gagTests {
 		Post p = ig.getPost();
 		Assert.assertNotNull(p.getLink());
 		Assert.assertNotNull(p.getTitulo());
-		Assert.assertEquals(p.getLink(), "a0KO8QL_460s.jpg");
+		Assert.assertEquals(p.getLink(), "img/a0KO8QL_460s.jpg");
 		Assert.assertEquals(p.getTitulo(), "Arguments over. House has settled it");
 	}
 }
